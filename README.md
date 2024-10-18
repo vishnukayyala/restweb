@@ -237,8 +237,12 @@ footer {
 ```
 
 ## OUTPUT:
-![Uploading Screenshot 2024-10-18 142352.png…]()
-![Uploading Screenshot 2024-10-18 142400.png…]()
+![Screenshot 2024-10-18 142352](https://github.com/user-attachments/assets/eac60d41-2564-45b2-9261-b3b8a58e11b7)
+
+
+
+![Screenshot 2024-10-18 142400](https://github.com/user-attachments/assets/666546e9-87f6-4fb8-a531-2a01f2799d2d)
+
 
 
 
